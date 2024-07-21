@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Celebrity Lookalike Detector</title>
+    <!-- Include Bootstrap CSS (you may need to download and host it locally or use a CDN) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        <h3 class="text-center">Celebrity Lookalike Detector</h3>
+                    </div>
+                    <div class="card-body">
+                        <form method="POST" enctype="multipart/form-data" action="/predict">
+                            <div class="form-group">
+                                <label for="audioFile">Select an Image File</label>
+                                <div class="input-group">
+                                    <div class="custom-file">
+                                        <input type="file" name="file" accept=".jpg, .jpeg, .png" class="custom-file-input" id="audioFile" required>
+
+                                        <label class="custom-file-label" for="audioFile">Choose file...</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary">Detect Celebrity</button>
+                            </div>
+                        </form>
+                    </div>
+                    {% if celebrity_name %}
+                    <div class="card-footer">
+                        <p>Uploaded Image Gender: {{ gender }}</p>
+                        <p class="text-center">{{ prediction }}</p>
+                        <h5 class="text-center">Your Predicted image:</h5>
+                        <img src="{{ image_path }}" alt="Predicted Image" style="max-width: 300px;">
+                        <p>Celebrity Match:</p>
+                        <p>Name: {{ celebrity_name }}</p>
+                        <p>Score: {{ score }}</p>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include Bootstrap JS (you may need to download and host it locally or use a CDN) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        // Update the file input label to display the selected file name
+        document.getElementById("audioFile").addEventListener("change", function(e) {
+            var fileName = e.target.files[0].name;
+            document.querySelector(".custom-file-label").innerHTML = fileName;
+        });
+    </script>
+</body>
+</html>
