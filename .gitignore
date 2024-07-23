@@ -1,0 +1,6 @@
+Dark_models/embeddings_dark.npy
+Fair_models/embeddings_fair.npy
+Middle_models/embeddings_middle.npy
+Dark_models/shape_predictor_68_face_landmarks.dat
+Fair_models/shape_predictor_68_face_landmarks.dat
+Middle_models/shape_predictor_68_face_landmarks.dat
