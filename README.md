@@ -6,7 +6,6 @@ Celebrity LikeMe is a web application that utilizes machine learning models to d
 
 - **Skin Tone Detection:** Determines the skin tone of a person in an image using the Skin Tone Detector library.
 - **Gender Detection:** Utilizes OpenVINO models to detect the gender of a person in the uploaded image.
-
 - **Face Recognition:** Identifies faces in an image, extracts facial features, and predicts the closest celebrity match based on pre-trained models.
 
 ## Installation
@@ -14,6 +13,7 @@ Celebrity LikeMe is a web application that utilizes machine learning models to d
 Install the required dependencies:
 
 pip install -r requirements.txt
+
 Download additional model files as specified in the code and update file paths accordingly.
 Usage
 
