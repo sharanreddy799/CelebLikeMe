@@ -17,13 +17,13 @@ pip install -r requirements.txt
 Download additional model files as specified in the code and update file paths accordingly.
 Usage
 
-##Run the Flask web application:
+## Run the Flask web application:
 
 python your_app_file.py
 Open your web browser and navigate to http://localhost:5000.
 Upload an image using the provided form and click the "Predict" button.
 View the predicted celebrity match, confidence score, and the uploaded image with the celebrity.
 
-##Models
+## Models
 
 The application uses various models for skin tone detection, gender detection, and face recognition. These models are specified in the code and should be downloaded and configured accordingly.
