@@ -1,0 +1,108 @@
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Bobby Morley
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Pedro Alonso
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Emilia Clarke
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Morena Baccarin
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Jeremy Renner
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Rami Malek
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Alvaro Morte
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Richard Harmon
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Brian J. Smith
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Marie Avgeropoulos
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Eliza Taylor
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Tom Holland
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Rebecca Ferguson
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Robert Downey Jr
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Ben Affleck
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Keanu Reeves
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Lili Reinhart
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Millie Bobby Brown
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Chris Hemsworth
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Christian Bale
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Andy Samberg
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Shakira Isabel Mebarak
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Natalie Dormer
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Wentworth Miller
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Ursula Corbero
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_barbara palvin
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Jake Mcdorman
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Hugh Jackman
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Tom Hardy
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Josh Radnor
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_tom ellis
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Katharine Mcphee
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Lionel Messi
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Cristiano Ronaldo
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_gal gadot
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Johnny Depp
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Lindsey Morgan
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_camila mendes
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Anne Hathaway
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Inbar Lavi
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Middle/pins_Nadia Hilker
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Mark Zuckerberg
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Jennifer Lawrence
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Adriana Lima
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Megan Fox
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Logan Lerman
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Chris Pratt
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Avril Lavigne
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Leonardo DiCaprio
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Sophie Turner
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_scarlett johansson
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Miley Cyrus
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Brie Larson
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Emma Stone
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_alycia dabnem carey
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Taylor Swift
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Elizabeth Lail
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Alex Lawther
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Alexandra Daddario
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_amber heard
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Bill Gates
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Madelaine Petsch
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_elon musk
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Dominic Purcell
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Tom Cruise
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Zac Efron
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_jeff bezos
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_kiernen shipka
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Sarah Wayne Callies
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_grant gustin
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Krysten Ritter
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Jimmy Fallon
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Henry Cavil
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Danielle Panabaker
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Mark Ruffalo
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Gwyneth Paltrow
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Katherine Langford
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Tom Hiddleston
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Jessica Barden
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_elizabeth olsen
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Chris Evans
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Penn Badgley
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Emma Watson
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Neil Patrick Harris
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_margot robbie
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Maisie Williams
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Stephen Amell
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Maria Pedraza
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Selena Gomez
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Amanda Crew
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Robert De Niro
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Brenton Thwaites
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_ellen page
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Natalie Portman
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_melissa fumero
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Fair/pins_Tuppence Middleton
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Jason Momoa
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Morgan Freeman
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Zoe Saldana
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Rihanna
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Irina Shayk
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_barack obama
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Anthony Mackie
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Dwayne Johnson
+/Users/saisharankaram/Downloads/Celebrity_LikeMe/105_classes_pins_dataset(labelled)/Dark/pins_Zendaya

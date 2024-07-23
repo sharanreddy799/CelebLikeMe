@@ -1,0 +1,2 @@
+#Celebrity dataset is at this place
+https://www.kaggle.com/datasets/hereisburak/pins-face-recognition/data

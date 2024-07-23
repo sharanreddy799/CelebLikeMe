@@ -17,13 +17,17 @@ pip install -r requirements.txt
 Download additional model files as specified in the code and update file paths accordingly.
 Usage
 
+## Training Models
+
+The application uses various models for skin tone detection, gender detection, and face recognition. These models are specified in the code and should be downloaded and configured accordingly.
+
+Download the data from kaggle and divide them into their directories based on the directories.txt
+
+In the folders \*\*\_models there is a notebook to be executed which uses the dataset and a model should be built before using the app.py
+
 ## Run the Flask web application:
 
 python your_app_file.py
 Open your web browser and navigate to http://localhost:5000.
 Upload an image using the provided form and click the "Predict" button.
 View the predicted celebrity match, confidence score, and the uploaded image with the celebrity.
-
-## Models
-
-The application uses various models for skin tone detection, gender detection, and face recognition. These models are specified in the code and should be downloaded and configured accordingly.
