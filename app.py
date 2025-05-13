@@ -4,13 +4,13 @@ import numpy as np
 import cv2
 import pickle
 import shutil
-import random
 import matplotlib.pyplot as plt
 
 import tensorflow as tf
 from skintonedetector import skintonedetector
 from flask import Flask, render_template, request, redirect
 from tensorflow.keras.models import Sequential, Model, load_model
+import secrets
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = './static/images'
@@ -87,7 +87,7 @@ def get_features(path, skintone):   #send color of the person add switch case to
     celebrityName = le.inverse_transform(predictedLabel)
     imgName = os.listdir(f"105_classes_pins_dataset/pins_{celebrityName[0]}/")[0]
     source_path = f"105_classes_pins_dataset/pins_{celebrityName[0]}/{imgName}"
-    destination_dir =  os.path.join(app.config['UPLOAD_FOLDER'], "final_{}.png".format(random.randint(1,9999)))
+    destination_dir =  os.path.join(app.config['UPLOAD_FOLDER'], "final_{}.png".format(secrets.SystemRandom().randint(1,9999)))
     shutil.copy(source_path, destination_dir)
 
     return celebrityName[0], max(predictedScore[0]), destination_dir
